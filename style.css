@@ -3,4 +3,14 @@ body{
   background-color: rgb(197, 145, 97); 
   color:rgb(0, 0, 0);  
   font-family: "Oswald", sans-serif;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 700px;
+ margin: 0;
+}
+button {
+  background-color: rgb(138, 138, 138); 
+ color:rgb(0, 0, 0);
+ font-family: "Oswald", sans-serif;
 }
